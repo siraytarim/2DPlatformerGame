@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - zemin
+  - floor
+  - character
+  - Ground
+  - "grik\xFCp"
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: arka katman
+    uniqueID: 2463701067
+    locked: 0
+  - name: orta katman
+    uniqueID: 1915384255
+    locked: 0
+  - name: " \xF6n katman"
+    uniqueID: 2841540597
+    locked: 0
+  - name: "en \xF6n katman"
+    uniqueID: 490627475
+    locked: 0
